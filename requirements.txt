@@ -1,4 +1,2 @@
-# -dentist-atyrau-app
-    Dentist Atyrau Dental Cli
-streamlit
+ streamlit
 pandas
